@@ -2,7 +2,7 @@ Hello, deer reader.
 
 You have stumbled upon the greatest time waster on GitHub.
 
-Tremble before my mountain of unfinished hyperfixations and half-attempts at portfolio projects on a bedrock of school assignments I version because I reinstall my OS every two weeks.
+Tremble before my mountain of unfinished hyperfixations and half-attempts at portfolio projects on a bedrock of school assignments I'm forced to version because I reinstall my OS every two weeks.
 
 Anyway I'm proficient in the following languages: C++, Java, JS, Python, and I'm learning TS, Rust, Nix, Lua, and anything else that seems half-interesting and I can make a project out of
 
