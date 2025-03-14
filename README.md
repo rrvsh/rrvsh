@@ -1,10 +1,25 @@
-> Editor: Neovim using [NVF](https://github.com/NotAShelf/nvf)
+# Tools
+- Editor: Neovim using [NVF](https://github.com/NotAShelf/nvf)
+- Terminal Multiplexer: [Zellij](https://github.com/zellij-org/zellij)
+- OS: NixOS 25.05 (Flake [here](https://github.com/bwfiq/dotfiles))
+- WM: [Hyprland](https://github.com/hyprwm/Hyprland)
 
-> Terminal Multiplexer: [Zellij](https://github.com/zellij-org/zellij)
+# Languages
 
-> OS: NixOS 25.05 (Flake [here](https://github.com/bwfiq/dotfiles))
+Proficient:
+- C++
+- Java
+- Python
+- JS
 
-I'm proficient in the following languages: C++, Java, JS, Python, and I'm learning TS, Rust, Nix, Lua, and anything else that seems half-interesting and I can make a project out of
+Learning:
+- Rust
+- Nix
+- Lua
+- Typescript
+
+# Tooling
+
 
 I'm also very experienced with DevOps tools like Bash, Git, Docker/Podman, and CI/CD through GitHub Actions (because I try to automate as much of the tedium as I can so I can actually achieve something with the little time I am focused on any specific side project)
 
