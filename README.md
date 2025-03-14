@@ -1,10 +1,8 @@
-Hello, deer reader.
+> Editor: Neovim using [NVF](https://github.com/NotAShelf/nvf)
+> Terminal Multiplexer: [Zellij](https://github.com/zellij-org/zellij)
+> OS: NixOS 25.05 (Flake [here](https://github.com/bwfiq/dotfiles))
 
-You have stumbled upon the greatest time waster on GitHub.
-
-Tremble before my mountain of unfinished hyperfixations and half-attempts at portfolio projects on a bedrock of school assignments I'm forced to version because I reinstall my OS every two weeks.
-
-Anyway I'm proficient in the following languages: C++, Java, JS, Python, and I'm learning TS, Rust, Nix, Lua, and anything else that seems half-interesting and I can make a project out of
+I'm proficient in the following languages: C++, Java, JS, Python, and I'm learning TS, Rust, Nix, Lua, and anything else that seems half-interesting and I can make a project out of
 
 I'm also very experienced with DevOps tools like Bash, Git, Docker/Podman, and CI/CD through GitHub Actions (because I try to automate as much of the tedium as I can so I can actually achieve something with the little time I am focused on any specific side project)
 
