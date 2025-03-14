@@ -1,5 +1,7 @@
 > Editor: Neovim using [NVF](https://github.com/NotAShelf/nvf)
+
 > Terminal Multiplexer: [Zellij](https://github.com/zellij-org/zellij)
+
 > OS: NixOS 25.05 (Flake [here](https://github.com/bwfiq/dotfiles))
 
 I'm proficient in the following languages: C++, Java, JS, Python, and I'm learning TS, Rust, Nix, Lua, and anything else that seems half-interesting and I can make a project out of
