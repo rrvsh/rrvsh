@@ -25,6 +25,6 @@ I'm also very experienced with DevOps tools like Bash, Git, Docker/Podman, and C
 
 I have a homelab turning five years old soon that involves Docker Compose and Debian machines that run a bunch of services, some public-facing and some behind Tailscale.
 
-I'm also in school for a BSc in Computer Science at the University of London where every single module is either a Python web app or a Jupyter notebook
+~I'm also in school for a BSc in Computer Science at the University of London where every single module is either a Python web app or a Jupyter notebook~
 
 Currently in the process of learning Nix and NixOS to prep for Summer of Nix! Current goal (after graduation) is to turn my entire homelab set up into a flake which you can follow [here](https://github.com/bwfiq/dotfiles)
