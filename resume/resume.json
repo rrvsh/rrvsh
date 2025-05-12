@@ -33,12 +33,10 @@
   },
   "work": [
     {
-      "company": "HelloHolo",
+      "name": "HelloHolo",
       "position": "VR Developer",
-      "website": "",
       "startDate": "2022-10-01",
       "endDate": "2023-10-01",
-      "summary": "",
       "highlights": [
         "Developed XR training/showcase simulations using Unity and C# for enterprise clients such as Procter & Gamble and Ngee Ann Polytechnic.",
         "Utilized Meta Quest 2, Hololens 2 and Azure Kinect to create immersive simulations with realistic haptic feedback."
@@ -47,10 +45,8 @@
     {
       "company": "Freelance",
       "position": "Desktop Technician",
-      "website": "",
       "startDate": "2023-10-01",
       "endDate": "2024-12-01",
-      "summary": "",
       "highlights": [
         "Delivered on-site hardware and software troubleshooting, repair, and configuration services for Windows-based desktops and laptops, ensuring optimal device functionality.",
         "Provided on-demand technical support to a wide range of clients (approximately 100), offering specialized troubleshooting, diagnostics, software configuration, and custom PC builds tailored to individual needs."
@@ -59,10 +55,7 @@
     {
       "company": "Xtremax",
       "position": "Network Operations Centre",
-      "website": "",
       "startDate": "2025-01-01",
-      "endDate": "2025",
-      "summary": "",
       "highlights": [
         "Spearheaded initiatives in automation and optimization following ITILv4 principles, utilizing VBA for Excel spreadsheet organization, Python for Jira automation, and Javascript for day-to-day ticketing tasks.",
         "Conducted round-the-clock monitoring and diagnosis of website downtimes and defacement for a website hosting company using AWS."
@@ -76,7 +69,6 @@
       "studyType": "Diploma",
       "startDate": "2017-04-01",
       "endDate": "2020-05-01",
-      "gpa": "",
       "courses": [
         "Strong foundational knowledge in data structures and algorithms using C and C++.",
         "Developed full games using OpenGL and Unity with a focus on multithreaded workloads and low-level graphics programming."
@@ -85,10 +77,9 @@
     {
       "institution": "University of London",
       "area": "Computer Science",
-      "studyType": "Bachelors of Science (Honours)",
+      "studyType": "BSc(Hons)",
       "startDate": "2022-10-04",
       "endDate": "2025-05-01",
-      "gpa": "",
       "courses": [
         "Studied three tier web architecture with Django and Node with both relational and NoSQL databases.",
         "Developed data science and machine learning workflows with Python using Jupyter notebooks."
@@ -108,7 +99,7 @@
       "name": "Perspective-Taking in Virtual Reality and Reduction of Biases against Minorities",
       "publisher": "MDPI",
       "releaseDate": "2021-07-31",
-      "website": "https://www.mdpi.com/2414-4088/5/8/42",
+      "url": "https://www.mdpi.com/2414-4088/5/8/42",
       "summary": "A study found that experiencing workplace microaggressions as an ethnic minority avatar in VR, regardless of whether participants focused on emotions or thoughts, improved perceptions towards minority groups, with self-presence moderating the effect."
     }
   ]
