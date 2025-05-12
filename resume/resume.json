@@ -77,7 +77,6 @@
       ]
     }
   ],
-  "volunteer": [ ],
   "education": [
     {
       "institution": "Nanyang Polytechnic",
@@ -121,7 +120,6 @@
       "summary": "A study found that experiencing workplace microaggressions as an ethnic minority avatar in VR, regardless of whether participants focused on emotions or thoughts, improved perceptions towards minority groups, with self-presence moderating the effect."
     }
   ],
-  "skills": [ ],
   "languages": [
     {
       "language": "English",
@@ -131,7 +129,5 @@
       "language": "Malay",
       "fluency": "Native speaker"
     }
-  ],
-  "interests": [ ],
-  "references": [ ]
+  ]
 }
