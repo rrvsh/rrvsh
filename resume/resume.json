@@ -1,13 +1,12 @@
 {
-  "meta": { "theme": "elegant" },
+  "meta": { "theme": "relaxed" },
   "basics": {
     "name": "Mohammad Rafiq",
-    "label": "Developer",
-    "picture": "",
+    "label": "Junior Developer",
     "email": "rafiq@rrv.sh",
     "phone": "+65 9734 0640",
-    "website": "https://rrv.sh",
-    "summary": "Avid self hoster and open source contributor.",
+    "url": "https://rrv.sh",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -51,17 +50,6 @@
       "highlights": [
         "Delivered on-site hardware and software troubleshooting, repair, and configuration services for Windows-based desktops and laptops, ensuring optimal device functionality.",
         "Provided on-demand technical support to a wide range of clients (approximately 100), offering specialized troubleshooting, diagnostics, software configuration, and custom PC builds tailored to individual needs."
-      ]
-    },
-    {
-      "company": "Reality Rift",
-      "position": "Arena Crew",
-      "website": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-04-01",
-      "summary": "",
-      "highlights": [
-        "Handled maintenance, support, and repair for 98 desktop systems utilising diskless boot technology in an internet cafe."
       ]
     },
     {
