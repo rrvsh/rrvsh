@@ -64,17 +64,6 @@
   ],
   "education": [
     {
-      "institution": "Nanyang Polytechnic",
-      "area": "Game Development & Technology",
-      "studyType": "Diploma",
-      "startDate": "2017-04-01",
-      "endDate": "2020-05-01",
-      "courses": [
-        "Strong foundational knowledge in data structures and algorithms using C and C++.",
-        "Developed full games using OpenGL and Unity with a focus on multithreaded workloads and low-level graphics programming."
-      ]
-    },
-    {
       "institution": "University of London",
       "area": "Computer Science",
       "studyType": "BSc(Hons)",
@@ -83,6 +72,17 @@
       "courses": [
         "Studied three tier web architecture with Django and Node with both relational and NoSQL databases.",
         "Developed data science and machine learning workflows with Python using Jupyter notebooks."
+      ]
+    },
+    {
+      "institution": "Nanyang Polytechnic",
+      "area": "Game Development & Technology",
+      "studyType": "Diploma",
+      "startDate": "2017-04-01",
+      "endDate": "2020-05-01",
+      "courses": [
+        "Strong foundational knowledge in data structures and algorithms using C and C++.",
+        "Developed full games using OpenGL and Unity with a focus on multithreaded workloads and low-level graphics programming."
       ]
     }
   ],
@@ -108,6 +108,16 @@
       "name": "Low-Level Programming",
       "level": "Proficient",
       "keywords": ["C", "C++", "OpenGL"]
+    },
+    {
+      "name": "Data Science",
+      "level": "Proficient",
+      "keywords": ["Python", "Jupyter", "SQL"]
+    },
+    {
+      "name": "Functional Programming",
+      "level": "Passable",
+      "keywords": ["Rust", "Nix", "Lisp"]
     }
   ]
 }
