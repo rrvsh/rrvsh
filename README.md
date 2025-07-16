@@ -1,9 +1,3 @@
-# Tools
-- Editor: Neovim using [NVF](https://github.com/NotAShelf/nvf)
-- Terminal Multiplexer: [Zellij](https://github.com/zellij-org/zellij)
-- OS: NixOS 25.05 (Flake [here](https://github.com/bwfiq/dotfiles))
-- WM: [Hyprland](https://github.com/hyprwm/Hyprland)
-
 # Languages
 
 Proficient:
