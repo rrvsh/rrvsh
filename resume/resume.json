@@ -93,22 +93,5 @@
       "url": "https://www.mdpi.com/2414-4088/5/8/42",
       "summary": "A study found that experiencing workplace microaggressions as an ethnic minority avatar in VR, regardless of whether participants focused on emotions or thoughts, improved perceptions towards minority groups, with self-presence moderating the effect."
     }
-  ],
-  "skills": [
-    {
-      "name": "Low-Level Programming",
-      "level": "Proficient",
-      "keywords": ["C", "C++", "OpenGL"]
-    },
-    {
-      "name": "Data Science",
-      "level": "Proficient",
-      "keywords": ["Python", "Jupyter", "SQL"]
-    },
-    {
-      "name": "Functional Programming",
-      "level": "Passable",
-      "keywords": ["Rust", "Nix", "Lisp"]
-    }
   ]
 }
