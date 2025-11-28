@@ -1,8 +1,8 @@
 {
-  "meta": { "theme": "relaxed" },
+  "meta": { "theme": "professional" },
   "basics": {
     "name": "Mohammad Rafiq",
-    "label": "Junior Developer",
+    "label": "Software Engineer",
     "email": "rafiq@rrv.sh",
     "phone": "+65 9734 0640",
     "summary": "A driven developer with a strong foundation in C++, Python, and databases. Currently hands-on with Rust, Nix, and Docker Compose, and excited to contribute to innovative, open-source development.",
@@ -33,25 +33,14 @@
   },
   "work": [
     {
-      "name": "HelloHolo",
-      "position": "VR Developer",
-      "startDate": "2022-10-01",
-      "endDate": "2023-10-01",
+      "company": "Alpha Story",
+      "position": "Software Engineer",
+      "startDate": "2025-07-14",
       "highlights": [
-        "Developed XR training/showcase simulations using Unity and C# for enterprise clients such as Procter & Gamble and Ngee Ann Polytechnic.",
-        "Utilized Meta Quest 2, Hololens 2 and Azure Kinect to create immersive simulations with realistic haptic feedback."
+        "Led end-to-end development across frontend, backend, IaC, and internal developer tooling as part of the founding engineering team, establishing core architecture, coding standards, and deployment workflows for the company’s initial product offerings.",
+        "Delivered key platform capabilities including a segmented multi-runner CI pipeline with lockfile-based caching (reducing runtime from 5 to 2 minutes), an in-house feature-flag system supporting safe continuous deployment, and automated onboarding workflows integrated with Monday, Slack, Talkwalker, and Google Workspace."
       ]
     },
-    {
-      "company": "Freelance",
-      "position": "Desktop Technician",
-      "startDate": "2023-10-01",
-      "endDate": "2024-12-01",
-      "highlights": [
-        "Delivered on-site hardware and software troubleshooting, repair, and configuration services for Windows-based desktops and laptops, ensuring optimal device functionality.",
-        "Provided on-demand technical support to a wide range of clients (approximately 100), offering specialized troubleshooting, diagnostics, software configuration, and custom PC builds tailored to individual needs."
-      ]
-    },    
     {
       "company": "Xtremax",
       "position": "Network Operations Centre",
@@ -59,6 +48,16 @@
       "highlights": [
         "Spearheaded initiatives in automation and optimization following ITILv4 principles, utilizing VBA for Excel spreadsheet organization, Python for Jira automation, and Javascript for day-to-day ticketing tasks.",
         "Conducted round-the-clock monitoring and diagnosis of website downtimes and defacement for a website hosting company using AWS."
+      ]
+    },
+    {
+      "name": "HelloHolo",
+      "position": "VR Developer",
+      "startDate": "2022-10-01",
+      "endDate": "2023-10-01",
+      "highlights": [
+        "Developed XR training/showcase simulations using Unity and C# for enterprise clients such as Procter & Gamble and Ngee Ann Polytechnic.",
+        "Utilized Meta Quest 2, Hololens 2 and Azure Kinect to create immersive simulations with realistic haptic feedback."
       ]
     }
   ],
